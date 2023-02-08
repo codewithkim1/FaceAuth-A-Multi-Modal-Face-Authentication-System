@@ -11,7 +11,7 @@ This project uses the OpenCV library to detect faces in a video stream captured 
 
 1. Clone the repository:
 ```python
-git clone <https://github.com/<username>/face-detection-opencv.git>
+https://github.com/codewithkim1/FaceAuth-A-Multi-Modal-Face-Authentication-System.git
 
 ```
 2. Install the required packages:
