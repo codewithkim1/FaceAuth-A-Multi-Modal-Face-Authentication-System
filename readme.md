@@ -10,20 +10,20 @@ This project uses the OpenCV library to detect faces in a video stream captured 
 ## Setup
 
 1. Clone the repository:
-'''
+```python
 git clone <https://github.com/<username>/face-detection-opencv.git>
 
-'''
+```
 2. Install the required packages:
 
 ## Usage
 
 1. Run the following command in your terminal:
 
-'''
+```python
 python3 face-detection.py
 
-'''
+```
 
 2. The video stream from the default camera will be displayed with rectangles around the detected faces.
 
